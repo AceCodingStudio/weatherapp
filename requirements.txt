@@ -20,7 +20,7 @@ PyYAML==5.4.1
 requests-oauthlib==1.3.0
 sip==4.19.13
 tensorboard-plugin-wit
-tensorflow=
+tensorflow
 termcolor==1.1.0
 wincertstore==0.2
 wrapt==1.12.1
